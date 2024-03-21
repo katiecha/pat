@@ -1,5 +1,3 @@
-from compsci260lib import *
-
 # Note that the "$" character will be used to designate the end of a given
 # string.
 
