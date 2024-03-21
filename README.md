@@ -20,6 +20,9 @@ Start here!
 ## Live Server
 Download Live Server by Ritwick Dey
 
+## HTML Validator
+https://validator.w3.org/
+
 *****************************************************************************************************************
 ## lesson1.html + stylesheet1.css
 A stylesheet can be used to style HTML code. Try changing the selected color in the stylesheet1.css file.
@@ -30,9 +33,15 @@ We are super close to the CATCH website's homepage (https://www.catch-inc.com/) 
 ## lesson2.html
 Let's change the font of our text!
 
+## UI/UX and Figma
+
 ## Google Fonts
 https://fonts.google.com/
 
 *****************************************************************************************************************
 ## lesson3.html
 Now, we can add a navbar!
+
+*****************************************************************************************************************
+## lesson4.html
+Let's make our portfolios!
